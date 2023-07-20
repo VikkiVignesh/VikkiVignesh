@@ -1,7 +1,6 @@
 ### Hi there! 👋
 <!--Introduction-->
-  <h1 style="font-size:50px; font-family:cursive;"> Vignesh P</h1> 
-  <p>Student at Reva University.</p>
+  <h1 style="font-size:50px; font-family:cursive;">📌 About me :</h1> 
  <hr>
 
 <p align:"center">
