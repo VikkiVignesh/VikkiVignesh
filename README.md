@@ -1,6 +1,6 @@
 ### Hi there! 👋
 <!--Introduction-->
-  <h1 style="font-size:50px; font-family:cursive;">📌 About me :</h1> 
+  <h1 style="font-size:50px; font-family:cursive;">About me 📌 </h1> 
  <hr>
 
 <p align:"center">
