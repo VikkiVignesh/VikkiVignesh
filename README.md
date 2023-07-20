@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there! 👋
 <!--Introduction-->
 <P>
   <h1 style="font-size:50px; font-family:Georgia, serif;">Vignesh P  </h1>
@@ -8,7 +8,7 @@
 
 <p align:"center">
  I am a passionate,hard working and self-motivated  Computer Science student.</p>
- <p>I love to build connection with code enthusiasts</p>
+ <p>I love to build connection with code enthusiasts.</p>
 
 
 <div class="youtube buttons">
