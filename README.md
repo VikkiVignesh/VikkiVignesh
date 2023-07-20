@@ -19,7 +19,7 @@
 <!--Body-->
 <h2 style="color: #44AEFB">🌐Languages </h2>
 
-<div align="center" style="display:flex; cloumn-gap:20px;">
+<div  style="display:flex; cloumn-gap:20px;">
 
    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
       <img  alt="C" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
