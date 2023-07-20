@@ -1,7 +1,9 @@
 ### Hi there 👋
 <!--Introduction-->
-<span style="font-size:50px; font-family:Georgia, serif;">Vignesh P  </span>
- Student at Reva University.</p>
+<P>
+  <h1 style="font-size:50px; font-family:Georgia, serif;">Vignesh P  </h1>
+  <p>Student at Reva University.</p>
+ </P>
  <hr>
 
 <p align:"center">
