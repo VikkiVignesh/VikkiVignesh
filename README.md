@@ -4,7 +4,7 @@
  <hr>
 
 <p align:"center">
- I am a passionate,hard working and self-motivated  Computer Science student.</p>
+ I am a passionate , and self-motivated  Computer Science student.</p>
  <p>I love to build connection with code enthusiasts.</p>
 
 
