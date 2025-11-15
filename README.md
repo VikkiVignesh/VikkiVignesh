@@ -34,11 +34,11 @@ I focus on clean code, real-world impact, and continuous learning.
 <p>
   <img src="https://skillicons.dev/icons?i=react" width="44"/> &nbsp;
   <img src="https://skillicons.dev/icons?i=spring" width="44"/> &nbsp;
-  <img src="https://skillicons.dev/icons?i=AndroidStudio-Dark" width="44"/> &nbsp;
+  <img src="https://skillicons.dev/icons?i=android" width="44"/> &nbsp;
   <img src="https://skillicons.dev/icons?i=nodejs" width="44"/> &nbsp;
-  <img src="https://skillicons.dev/icons?i=TailwindCSS-Dark" width="44"/> &nbsp;
-  <img src="https://skillicons.dev/icons?i=ExpressJS-Dark" width="44"/> &nbsp;
-  <img src="https://skillicons.dev/icons?i=Bootstrap" width="44"/> 
+  <img src="https://skillicons.dev/icons?i=tailwind" width="44"/> &nbsp;
+  <img src="https://skillicons.dev/icons?i=express" width="44"/> &nbsp;
+  <img src="https://skillicons.dev/icons?i=bootstrap" width="44"/> 
 </p>
 
 ### ⚙️ Tools
@@ -47,11 +47,10 @@ I focus on clean code, real-world impact, and continuous learning.
   <img src="https://skillicons.dev/icons?i=github" width="44"/> &nbsp;
   <img src="https://skillicons.dev/icons?i=docker" width="44"/> &nbsp;
   <img src="https://skillicons.dev/icons?i=vscode" width="44"/> &nbsp;
-  <img src="https://skillicons.dev/icons?i=Idea-Dark" width="44" />&nbsp;
-   <img src="https://skillicons.dev/icons?i=Postman" width="44"/> 
+  <img src="https://skillicons.dev/icons?i=postman" width="44"/> 
 </p>
 
-### 🗄️Databases
+### 🗄️ Databases
 <p>
   <img src="https://skillicons.dev/icons?i=mysql" width="44"/> &nbsp;
   <img src="https://skillicons.dev/icons?i=mongodb" width="44"/> &nbsp;
@@ -59,10 +58,13 @@ I focus on clean code, real-world impact, and continuous learning.
   <img src="https://skillicons.dev/icons?i=aws" width="44"/>
 </p>
 
-### 🤖 GenAI
+---
+
+## 🤖 GenAI
 <p align="center">
-   <img src="https://skillicons.dev/icons?i=Illustrator" width="44"/> &nbsp;
-  <span style="display:inline-block; margin:0 18px;">
+
+<!-- LLM ICON -->
+<span style="display:inline-block; margin:0 18px;">
 <svg width="60" height="60" viewBox="0 0 64 64">
   <circle cx="32" cy="32" r="28" stroke="#44AEFB" stroke-width="4" fill="none"/>
   <text x="50%" y="52%" text-anchor="middle" fill="#44AEFB" font-size="14" font-family="Arial" font-weight="bold">LLM</text>
@@ -78,7 +80,7 @@ I focus on clean code, real-world impact, and continuous learning.
 </svg>
 </span>
 
-<!-- AGENTIC AI ICON -->
+<!-- AGENTIC ICON -->
 <span style="display:inline-block; margin:0 18px;">
 <svg width="60" height="60" viewBox="0 0 64 64">
   <polygon points="32,6 56,20 56,44 32,58 8,44 8,20" stroke="#FF9800" stroke-width="4" fill="none"/>
@@ -91,7 +93,7 @@ I focus on clean code, real-world impact, and continuous learning.
 
 ---
 
-## GitHub Analytics
+## 📈 GitHub Analytics
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=VikkiVignesh&show_icons=true&theme=algolia&border_radius=10" height="150"/> &nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VikkiVignesh&layout=compact&theme=algolia&border_radius=10" height="150"/>
@@ -103,26 +105,10 @@ I focus on clean code, real-world impact, and continuous learning.
 
 ---
 
-## Profile Views (Animated)
-<p align="center">
-  <svg width="260" height="60">
-    <text x="20" y="40" font-size="28" fill="#44AEFB" font-family="Arial" id="counter">
-      0
-      <animate attributeName="text" from="0" to="1000" dur="2s" fill="freeze" />
-    </text>
-    <text x="180" y="40" font-size="20" fill="#444">views</text>
-  </svg>
-</p>
-
----
-
-## Contact
 <p align="center">
   <img src="https://skillicons.dev/icons?i=gmail" width="38"/> &nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=linkedin" width="38"/> &nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=github" width="38"/>
 </p>
-
----
 
 <p align="center">✨ Thanks for visiting — let's build something amazing! ✨</p>
