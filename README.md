@@ -1,115 +1,179 @@
-### Hi there! 👋
-<!--Introduction-->
-  <h1 style="font-size:50px; font-family:cursive;">About me 📌 </h1> 
- <hr>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=44AEFB&size=30&center=true&vCenter=true&width=900&lines=Hi+I'm+Vignesh+P+👋;Full-Stack+Developer+%7C+Android+Developer+%7C+AI+%26+LLM+Enthusiast;Building+Scalable+Apps+%7C+APIs+%7C+Mobile;Always+Learning+%7C+Shipping+Quality+Code" alt="typing"/>
+</p>
 
-<p align:"center">
- I am a passionate , and self-motivated  Computer Science student.</p>
- <p>I love to build connection with code enthusiasts.</p>
+---
 
+<!-- LINKS WITH ICONS -->
+<p align="center">
+  <a href="https://github.com/VikkiVignesh" target="_blank" aria-label="GitHub">
+    <img src="https://skillicons.dev/icons?i=github" width="48" alt="github"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/vikkivigneshp" target="_blank" aria-label="LinkedIn">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="48" alt="linkedin"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:vikki.vishnu04@gmail.com" aria-label="Email">
+    <img src="https://skillicons.dev/icons?i=gmail" width="48" alt="email"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/VikkiVignesh?tab=repositories" target="_blank" aria-label="Repositories">
+    <img src="https://skillicons.dev/icons?i=repo" width="48" alt="repos"/>
+  </a>
+</p>
 
-<div class="youtube buttons">
-    <a href="https://www.linkedin.com/in/vignesh-p-502364243"  target="_blank">
-        <img alt="LinkedIn" src="https://camo.githubusercontent.com/f17ba9730c27e5f1230325b94c8b68bbf3115d32650866f6e3d0ade68201beea/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d2532333030373742352e7376673f6c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465"/>
-    </a>
-</div>
-<br>
+---
 
-<!--Body-->
-<h2 style="color: #44AEFB">🌐Languages </h2>
+# 👨‍💻 About Me
+I am **Vignesh P** — a motivated **Full-Stack Developer**, **Android Developer**, and **AI / LLM Enthusiast**.  
+I design and build production-ready web & mobile applications, REST APIs, and AI-enhanced systems that solve real problems.
 
-<div  style="display:flex; cloumn-gap:20px;">
+Focus areas:
+- Full-Stack: **React**, **Spring Boot**, **Node.js**
+- Mobile: **Android (Java / XML)** + Firebase
+- AI: **LLMs**, **RAG**, **Vector DBs**, prompt engineering
+- DevOps basics: **Docker**, **CI/CD**, **GitHub Actions**
 
-   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-      <img  alt="C" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
-   </a>
+I ship high-quality, maintainable code, learn fast, and adapt to new technologies quickly.
 
-   <a href="https://www.java.com/en/" target="_blank" rel="noreferrer">
-      <img  alt="Java" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-   </a>    
-  
-   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-      <img  alt="Python" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-   </a>
-</div>
-<br>
+---
 
-<h2> 👨‍💻Tech Stacks</h2>
-<div style="display:flex;">
-    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
-      <img  alt="HTM5" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-   </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
-      <img  alt="CSS" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-   </a>
-
-   <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
-      <img  alt="Bootstrap" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
-   </a>
-
-   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-      <img  alt="Git" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-   </a>
-
-   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-      <img  alt="vscode" height="50px" style="padding-right:10px;"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
-   </a>
-
-   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-      <img  alt="Figma" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/> 
-   </a>
-
-   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-      <img  alt="Linux" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
-   </a>
-
-   <a href="https://docs.arduino.cc/" target="_blank" rel="noreferrer">
-      <img  alt="Bootstrap" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />
-   </a>
-</div>
-
-<hr>
-<br>
-
-
-<!--Statistical View-->
-<div class="stats" align="center">
-
-![Vignesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VikkiVignesh&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=VikkiVignesh&count_private=true&theme=algolia&border_radius=20)
-
-<!-- ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KhaledBadranDev&show_icons=true&theme=algolia&border_radius=20) -->
-
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VikkiVignesh&layout=compact&show_icons=true&theme=algolia&border_radius=20)
-</div>
-
-<!--
+# 🛠️ Tech Stack (Icons)
+### Languages
 <p>
- <a href="https://camo.githubusercontent.com/149ed908018c992d91a880c197690953501be433e7d6c3134ffd407697a4f728/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d5368697368697253686173747279267468656d653d746f6b796f6e69676874266e6f2d6672616d653d66616c7365266e6f2d62673d74727565266d617267696e2d773d34" target="_blank">
-
-<img src="https://camo.githubusercontent.com/149ed908018c992d91a880c197690953501be433e7d6c3134ffd407697a4f728/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d5368697368697253686173747279267468656d653d746f6b796f6e69676874266e6f2d6672616d653d66616c7365266e6f2d62673d74727565266d617267696e2d773d34" alt="" data-canonical-src="https://github-profile-trophy.vercel.app/?username=VikkiVignesh&amp;theme=tokyonight&amp;no-frame=false&amp;no-bg=true&amp;margin-w=4" style="max-width: 100%;">
+  <img src="https://skillicons.dev/icons?i=java" width="44" alt="Java"/> &nbsp;
+  <img src="https://skillicons.dev/icons?i=python" width="44" alt="Python"/> &nbsp;
+  <img src="https://skillicons.dev/icons?i=javascript" width="44" alt="JavaScript"/> &nbsp;
+  <img src="https://skillicons.dev/icons?i=c" width="44" alt="C"/>
 </p>
 
-
-<p dir="auto">
- <a href="https://visitcount.itsvg.in" rel="nofollow">
-  <img src="https://camo.githubusercontent.com/40f26dae58cf4dce02cf6a03a3ba1518373d79169dfc7ed67f39d8e139812e25/68747470733a2f2f7669736974636f756e742e69747376672e696e2f6170693f69643d5368697368697253686173747279" alt="views" data-canonical-src="https://visitcount.itsvg.in/api?id=VikkiVignesh" style="max-width: 100%;">
- </a>
+### Frameworks & Libraries
+<p>
+  <img src="https://skillicons.dev/icons?i=react" width="44" alt="React"/> &nbsp;
+  <img src="https://skillicons.dev/icons?i=spring" width="44" alt="Spring Boot"/> &nbsp;
+  <img src="https://skillicons.dev/icons?i=android" width="44" alt="Android"/> &nbsp;
+  <img src="https://skillicons.dev/icons?i=nodejs" width="44" alt="Node.js"/>
 </p>
+
+### Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git" width="44" alt="Git"/> &nbsp;
+  <img src="https://skillicons.dev/icons?i=github" width="44" alt="GitHub"/> &nbsp;
+  <img src="https://skillicons.dev/icons?i=docker" width="44" alt="Docker"/> &nbsp;
+  <img src="https://skillicons.dev/icons?i=vscode" width="44" alt="VSCode"/>
+</p>
+
+### Databases & Cloud
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" width="44" alt="MySQL"/> &nbsp;
+  <img src="https://skillicons.dev/icons?i=mongodb" width="44" alt="MongoDB"/> &nbsp;
+  <img src="https://skillicons.dev/icons?i=firebase" width="44" alt="Firebase"/> &nbsp;
+  <img src="https://skillicons.dev/icons?i=aws" width="44" alt="AWS"/>
+</p>
+
+### AI & ML
+<p>
+  <img src="https://skillicons.dev/icons?i=python" width="44" alt="Python"/> &nbsp;
+  <img src="https://skillicons.dev/icons?i=pytorch" width="44" alt="PyTorch"/> &nbsp;
+  <img src="https://skillicons.dev/icons?i=tensorflow" width="44" alt="TensorFlow"/>
+</p>
+
+---
+
+# 📊 Skill Proficiency (visual)
+
+> (These static progress bars are placeholders — percentages editable. For **live animated bars** based on your real GitHub data, add the Actions + script in the repo as described in the repo's docs.)
+
+### Java
+<img src="https://progress-bar.dev/90/?title=Java&width=540&color=44AEFB" alt="Java 90%"/>
+
+### Python
+<img src="https://progress-bar.dev/80/?title=Python&width=540&color=8E24AA" alt="Python 80%"/>
+
+### Android Development
+<img src="https://progress-bar.dev/82/?title=Android&width=540&color=00C853" alt="Android 82%"/>
+
+### React
+<img src="https://progress-bar.dev/75/?title=React&width=540&color=1E88E5" alt="React 75%"/>
+
+### Spring Boot
+<img src="https://progress-bar.dev/78/?title=Spring%20Boot&width=540&color=43A047" alt="Spring Boot 78%"/>
+
+---
+
+# 🌈 Real GitHub Language Usage (Animated & Auto-Updated)
+> The section below is a **placeholder** that will be replaced by a GitHub Action & generator script.  
+> When you add the workflow and `generate_languages.py` script to the repo, the Action will compute **true language percentages** from your repositories and inject **animated SVG progress bars** into this section automatically.
+
+<!--LANG_START-->
+<!--
+  This section will be replaced by the language-generation Action/script.
+  Example replacement content will be a series of animated SVG bars like:
+
+  <svg width="500" height="28"> ... <animate ... /> ... </svg>
+
+  Leave these markers intact. Do NOT delete <!--LANG_START--> or <!--LANG_END-->.
 -->
+<p align="center">
+  <!-- If the Action is not yet set up, the README shows friendly fallback text -->
+  <em>Animated language usage will appear here after you enable the GitHub Action (see README instructions).</em>
+</p>
+<!--LANG_END-->
 
------
-<!--footer-->
-<div class="footer" align="center" style="margin:15px;">
-    <a href=target="_blank">
-        <img  style="margin:0 10px 10px 0;" src="https://user-images.githubusercontent.com/78341798/194531650-698ef1b1-9cbd-4b4f-96ef-5a2ec4b5d7e6.svg" alt="youtube" width="40px"/>
-    </a>
-    <a href= target="_blank">
-        <img style="margin:0 10px 10px 0;" src="https://user-images.githubusercontent.com/78341798/194531458-b5dfeb1b-bad5-4dfa-909a-2e402262db9a.svg" alt="blogger" width="40px"/>
-    </a>
-    <a href="mailto:vikki.vishnu04@gmail.com" target="_blank">
-        <img style="margin:0 10px 10px 0;" src="https://user-images.githubusercontent.com/78341798/194531383-ddb2b774-5bb9-491c-b601-4a4a7d9792fb.svg" alt="gmail" width="40px"/>
-    </a>
-</div>
+---
+
+# 🚀 I’m Not Limited to These Skills
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00C853&size=22&center=true&vCenter=true&width=850&lines=💡+Fast+Learner+%7C+Curious+Mind;🚀+Adapts+Quickly+to+New+Technologies;🤖+AI+%7C+LLM+%7C+RAG+Explorer;🧠+Problem+Solver;🌱+Growth+Mindset" alt="learning"/>
+</p>
+
+---
+
+# 📦 Total Public Repositories
+<p align="center">
+  <img src="https://img.shields.io/github/repo-count/VikkiVignesh?color=44AEFB&logo=github&style=for-the-badge" alt="repo-count"/>
+</p>
+
+---
+
+# 📈 GitHub Analytics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VikkiVignesh&show_icons=true&theme=algolia&border_radius=8" height="160" alt="github-stats"/> &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VikkiVignesh&layout=compact&theme=algolia&border_radius=8" height="160" alt="top-langs"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=VikkiVignesh&theme=algolia&border_radius=8" alt="streak"/>
+</p>
+
+---
+
+# ⚡ Activity Badges
+<p align="center">
+  <img src="https://img.shields.io/badge/Commits-Active-blue?style=for-the-badge&logo=github" alt="commits"/> &nbsp;
+  <img src="https://img.shields.io/badge/PRs-Contributor-purple?style=for-the-badge&logo=github" alt="prs"/> &nbsp;
+  <img src="https://img.shields.io/badge/Issues-Tracking-red?style=for-the-badge&logo=github" alt="issues"/> &nbsp;
+  <img src="https://img.shields.io/badge/Merges-Engaged-green?style=for-the-badge&logo=git" alt="merges"/>
+</p>
+
+### 👀 Profile Visitors
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=VikkiVignesh&icon=5&color=7" width="180" alt="visitors"/>
+</p>
+
+---
+
+# 📬 Contact
+<p align="left">
+  <a href="mailto:vikki.vishnu04@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="38" alt="gmail"/></a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/vikkivigneshp"><img src="https://skillicons.dev/icons?i=linkedin" width="38" alt="linkedin"/></a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/VikkiVignesh"><img src="https://skillicons.dev/icons?i=github" width="38" alt="github"/></a>
+</p>
+
+---
+
+<p align="center">✨ Thanks for visiting — I’m always open to collaborate and learn new technologies. ✨</p>
 
