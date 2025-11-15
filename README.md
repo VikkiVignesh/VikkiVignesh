@@ -34,7 +34,6 @@ I focus on clean code, real-world impact, and continuous learning.
 <p>
   <img src="https://skillicons.dev/icons?i=react" width="44"/> &nbsp;
   <img src="https://skillicons.dev/icons?i=spring" width="44"/> &nbsp;
-  <img src="https://skillicons.dev/icons?i=android" width="44"/> &nbsp;
   <img src="https://skillicons.dev/icons?i=nodejs" width="44"/> &nbsp;
   <img src="https://skillicons.dev/icons?i=tailwind" width="44"/> &nbsp;
   <img src="https://skillicons.dev/icons?i=express" width="44"/> &nbsp;
