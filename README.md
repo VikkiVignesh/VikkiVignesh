@@ -1,9 +1,4 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/tabler/tabler-icons/master/icons/robot.svg" 
-       width="90" alt="GenAI Logo"/>
-</p>
-
-<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=44AEFB&size=26&center=true&vCenter=true&width=900&lines=Hi+I'm+Vignesh+P;Full-Stack+Developer+%7C+Android+Developer+%7C+GenAI+Engineer;Building+Scalable+%26+Intelligent+Software" />
 </p>
 
@@ -39,17 +34,11 @@ I focus on clean code, real-world impact, and continuous learning.
 <p>
   <img src="https://skillicons.dev/icons?i=react" width="44"/> &nbsp;
   <img src="https://skillicons.dev/icons?i=spring" width="44"/> &nbsp;
-  <img src="https://skillicons.dev/icons?i=android" width="44"/> &nbsp;
-  <img src="https://skillicons.dev/icons?i=nodejs" width="44"/>
-</p>
-
-<p>
-  <img src="https://raw.githubusercontent.com/tabler/tabler-icons/master/icons/shield-lock.svg" width="26"/> 
-  &nbsp; Spring Security &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/tabler/tabler-icons/master/icons/stack-3.svg" width="26"/> 
-  &nbsp; MVC &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/tabler/tabler-icons/master/icons/circuit-switch-open.svg" width="26"/> 
-  &nbsp; Microservices
+  <img src="https://skillicons.dev/icons?i=AndroidStudio-Dark" width="44"/> &nbsp;
+  <img src="https://skillicons.dev/icons?i=nodejs" width="44"/> &nbsp;
+  <img src="https://skillicons.dev/icons?i=TailwindCSS-Dark" width="44"/> &nbsp;
+  <img src="https://skillicons.dev/icons?i=ExpressJS-Dark" width="44"/> &nbsp;
+  <img src="https://skillicons.dev/icons?i=Bootstrap" width="44"/> 
 </p>
 
 ### ⚙️ Tools
@@ -57,7 +46,9 @@ I focus on clean code, real-world impact, and continuous learning.
   <img src="https://skillicons.dev/icons?i=git" width="44"/> &nbsp;
   <img src="https://skillicons.dev/icons?i=github" width="44"/> &nbsp;
   <img src="https://skillicons.dev/icons?i=docker" width="44"/> &nbsp;
-  <img src="https://skillicons.dev/icons?i=vscode" width="44"/>
+  <img src="https://skillicons.dev/icons?i=vscode" width="44"/> &nbsp;
+  <img src="https://skillicons.dev/icons?i=Idea-Dark" width="44" />&nbsp;
+   <img src="https://skillicons.dev/icons?i=Postman" width="44"/> 
 </p>
 
 ### 🗄️Databases
@@ -68,12 +59,34 @@ I focus on clean code, real-world impact, and continuous learning.
   <img src="https://skillicons.dev/icons?i=aws" width="44"/>
 </p>
 
-### 🤖 GenAI & Agentic Intelligence
+### 🤖 GenAI
 <p align="center">
-  <span style="padding:12px 18px; border-radius:12px; background:#f8fffa; display:inline-block;">
-    <img src="https://raw.githubusercontent.com/tabler/tabler-icons/master/icons/brain.svg" width="40" style="vertical-align:middle; margin-right:10px;" />
-    <strong>GenAI • LLMs • Agentic Systems • RAG • Vector DBs</strong>
-  </span>
+   <img src="https://skillicons.dev/icons?i=Illustrator" width="44"/> &nbsp;
+  <span style="display:inline-block; margin:0 18px;">
+<svg width="60" height="60" viewBox="0 0 64 64">
+  <circle cx="32" cy="32" r="28" stroke="#44AEFB" stroke-width="4" fill="none"/>
+  <text x="50%" y="52%" text-anchor="middle" fill="#44AEFB" font-size="14" font-family="Arial" font-weight="bold">LLM</text>
+</svg>
+</span>
+
+<!-- RAG ICON -->
+<span style="display:inline-block; margin:0 18px;">
+<svg width="60" height="60" viewBox="0 0 64 64">
+  <rect x="8" y="8" width="48" height="48" rx="8" stroke="#00C853" stroke-width="4" fill="none"/>
+  <circle cx="32" cy="32" r="10" stroke="#00C853" stroke-width="3" fill="none"/>
+  <text x="50%" y="90%" text-anchor="middle" fill="#00C853" font-size="13" font-family="Arial" font-weight="bold">RAG</text>
+</svg>
+</span>
+
+<!-- AGENTIC AI ICON -->
+<span style="display:inline-block; margin:0 18px;">
+<svg width="60" height="60" viewBox="0 0 64 64">
+  <polygon points="32,6 56,20 56,44 32,58 8,44 8,20" stroke="#FF9800" stroke-width="4" fill="none"/>
+  <circle cx="32" cy="32" r="8" fill="#FF9800" />
+  <text x="50%" y="92%" text-anchor="middle" fill="#FF9800" font-size="12" font-family="Arial" font-weight="bold">AGENTIC</text>
+</svg>
+</span>
+
 </p>
 
 ---
