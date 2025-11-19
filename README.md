@@ -16,7 +16,7 @@ I focus on clean code, real-world impact, and continuous learning.
 - GenAI Systems (LLMs, RAG, Vector DBs, Agents)  
 - REST API & Microservices  
 - SQL / NoSQL Databases  
-- CI/CD, Automation, Docker, GitHub Actions  
+- CI/CD,Docker
 
 ---
 
